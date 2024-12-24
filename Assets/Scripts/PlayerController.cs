@@ -30,5 +30,3 @@ public class PlayerController : MonoBehaviour
         currentState.Enter();
     }
 }
-
-// TEST COMMIT
